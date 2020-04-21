@@ -1,5 +1,5 @@
 # TPNILM
-Notebook for Temporal Polling NILM
+Notebook for Temporal Pooling NILM
 
 The [paper](https://www.mdpi.com/2076-3417/10/4/1454) "Non-Intrusive Load Disaggregation by Convolutional Neural Network and Multilabel Classification" was published in MDPI Applied Sciences 10.4.1454 (2020)
 
